@@ -1,0 +1,4 @@
+kucoin-futures-python
+python-dotenv
+thread6
+asyncio
